@@ -1,0 +1,12 @@
+In ECOMMERA INDIA PVT LTD I was working as a Senior Software Engineer. My responsibilities are:
+
+1. Planning, requirement gathering, client communication. 
+2. Design and develop web applications.
+3. Handling bug reports and bug fixes.
+4. Code review for development related code.
+5. Analysis, Design, coordinate and supervise the development of web application.
+6. Task allocations to juniors.
+7. Unit testing and maintaining the proper coding standard. 
+8. Maintaining documentation of Code Architecture.
+9. Preparation of presentation and demo to client.
+10. Provides training to team members for UI technologies.
